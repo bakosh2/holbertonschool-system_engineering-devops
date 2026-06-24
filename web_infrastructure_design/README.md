@@ -6,7 +6,7 @@
 
 This project focuses on web infrastructure design, by creating diagrams and explaining the role of each component in a typical web stack.
 
-All four diagrams in this project describe the infrastructure for `www.mabat.com`, a booking platform for coastal resorts in Saudi Arabia, as it evolves from a single server to a secured, monitored, and scaled multi-server setup.
+All four diagrams in this project describe the infrastructure for `www.mabat.sa`, a booking platform for coastal resorts in Saudi Arabia, as it evolves from a single server to a secured, monitored, and scaled multi-server setup.
 
 ## Objectives
 

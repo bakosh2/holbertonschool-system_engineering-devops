@@ -4,7 +4,7 @@
 
 ## Description
 
-This is the diagram of a three server web infrastructure that hosts the website that is reachable via `www.mabat.com`.
+This is the diagram of a three server web infrastructure that hosts the website that is reachable via `www.mabat.sa`.
 
 It contains one load-balancer (HAProxy), two global servers, each with one web server (NGINX), one application server, application files (Mabat's code base) and one shared database (MySQL).
 

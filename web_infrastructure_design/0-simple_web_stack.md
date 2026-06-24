@@ -4,7 +4,7 @@
 
 ## Description
 
-This is the diagram of a one server web infrastructure that hosts the website that is reachable via `www.mabat.com`.
+This is the diagram of a one server web infrastructure that hosts the website that is reachable via `www.mabat.sa`.
 
 It contains one global server (IP: 8.8.8.8) with one web server (NGINX), one application server, application files (Mabat's code base) and one database (MySQL).
 
@@ -16,13 +16,13 @@ It contains one global server (IP: 8.8.8.8) with one web server (NGINX), one app
 
 - **What is a server?**
 
-    It's a computer or system responsible for providing services, resources, or data to other computers, known as clients, over a network. In this case, it hosts the website for `www.mabat.com`.
+    It's a computer or system responsible for providing services, resources, or data to other computers, known as clients, over a network. In this case, it hosts the website for `www.mabat.sa`.
 
 - **What is the role of the domain name?**
 
-    `mabat.com` is a human-readable address that allows divers and travelers to access the website. It acts as a user-friendly reference to the server's IP address.
+    `mabat.sa` is a human-readable address that allows divers and travelers to access the website. It acts as a user-friendly reference to the server's IP address.
 
-- **What type of DNS record `www` is in `www.mabat.com`?**
+- **What type of DNS record `www` is in `www.mabat.sa`?**
 
     The "www" is typically a CNAME (Canonical Name) DNS record, which is an alias for the domain name, directing it to the server's IP address.
 

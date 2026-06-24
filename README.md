@@ -8,7 +8,7 @@ This repository contains the projects for the System Engineering & DevOps track 
 
 | Project | Description |
 |---|---|
-| [web_infrastructure_design](./web_infrastructure_design) | Designing the web infrastructure for `www.mabat.com`, progressing from a single server stack to a secured, monitored, and scaled multi-server architecture. |
+| [web_infrastructure_design](./web_infrastructure_design) | Designing the web infrastructure for `www.mabat.sa`, progressing from a single server stack to a secured, monitored, and scaled multi-server architecture. |
 
 ## Author
 

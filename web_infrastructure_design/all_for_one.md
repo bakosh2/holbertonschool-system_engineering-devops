@@ -2,7 +2,7 @@
 
 # Mabat — Web Infrastructure Design
 
-A complete overview of the four infrastructure stages for `www.mabat.com`, from a single server to a scaled, secured, and monitored multi-server setup.
+A complete overview of the four infrastructure stages for `www.mabat.sa`, from a single server to a scaled, secured, and monitored multi-server setup.
 
 ---
 

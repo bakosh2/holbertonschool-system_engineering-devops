@@ -4,7 +4,7 @@
 
 ## Description
 
-This is the diagram of a multi-server web infrastructure that hosts the website that is reachable via `www.mabat.com`.
+This is the diagram of a multi-server web infrastructure that hosts the website that is reachable via `www.mabat.sa`.
 It must be secured, serve encrypted traffic, and be monitored, while supporting Mabat's growth in users and bookings.
 
 It contains two load balancers (HAProxy) configured as a cluster, two global servers, each with one web server (NGINX), one application server, and application files (Mabat's code base). The database layer is split into a Primary-Replica (Master-Slave) cluster, with the Primary handling all booking writes and the Replica handling all read traffic, such as browsing resorts.
